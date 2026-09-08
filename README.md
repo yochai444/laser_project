@@ -21,8 +21,8 @@ channel:
 
 | condition | localizer top-1 |
 |---|---|
-| laser, 156-688 Hz | 72% |
-| microphone, 156-688 Hz | 78% |
+| laser, 188-688 Hz | 72% |
+| microphone, 188-688 Hz | 78% |
 | microphone, full band | 100% |
 
 The task itself is fully solvable; both gaps are physical. About 6 points are
