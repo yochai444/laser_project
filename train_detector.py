@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-train_detector_mac.py
+train_detector.py
 =====================
 Trains a detector for "was the word spoken at all", as opposed to the localizer,
 which answers "where in this recording is it".
