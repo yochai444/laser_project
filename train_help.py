@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-train_help_v5_mac.py
+train_help.py
 ====================
 Fifth-generation HELP keyword localizer for the optical microphone corpus.
 Built for Apple Silicon (MPS), falls back to CUDA or CPU.
